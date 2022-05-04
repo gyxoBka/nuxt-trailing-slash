@@ -1,8 +1,9 @@
 {
-  "name": "@gyxobka/nuxt-trailing-slash",
+  "name": "nuxt-trailing-slash",
   "version": "1.0.0",
   "license": "MIT",
   "type": "module",
+  "private": false,
   "exports": {
     ".": {
       "import": "./dist/module.mjs",
